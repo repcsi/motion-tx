@@ -1,0 +1,4 @@
+#add configuration directives here:
+#video_directory: /motion
+video_directory: 'd:\rpicam\'
+max_fs_usage: 80
